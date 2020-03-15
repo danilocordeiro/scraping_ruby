@@ -1,0 +1,365 @@
+# Logfile created on 2020-03-14 16:25:27 -0300 by logger.rb/v1.4.2
+I, [2020-03-14T16:25:27.440672 #4783]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:25:27.440743 #4783] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:25:27.440777 #4783] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:25:27.440806 #4783] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:25:27.440831 #4783] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:25:27.440855 #4783] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:25:27.440878 #4783] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:25:27.972253 #4783]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:25:27.972436 #4783] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:25:27.972549 #4783] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:25:27.972634 #4783] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:25:27.972719 #4783] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:25:27.972801 #4783] DEBUG -- : response-header: x-amz-cf-pop => JFK51-C1
+D, [2020-03-14T16:25:27.972880 #4783] DEBUG -- : response-header: x-amz-cf-id => hIQxroGs5yIa_u07yNuSZC2nJm1t9XrZml-etDzIWmMP8Qy1cV6XfQ==
+D, [2020-03-14T16:25:27.972962 #4783] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:25:27.973042 #4783] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:25:27.973119 #4783] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:25:27.973194 #4783] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:25:27 GMT
+D, [2020-03-14T16:25:27.973270 #4783] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:25:27.973347 #4783] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:25:27.973423 #4783] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=143, origin; dur=6
+D, [2020-03-14T16:25:27.973735 #4783] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:25:28.009385 #4783] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:25:28.017166 #4783] DEBUG -- : Read 15173 bytes (39749 total)
+D, [2020-03-14T16:25:28.017422 #4783] DEBUG -- : Read 8755 bytes (48504 total)
+D, [2020-03-14T16:25:28.017647 #4783] DEBUG -- : Read 1927 bytes (50431 total)
+D, [2020-03-14T16:25:28.017766 #4783] DEBUG -- : Read 8 bytes (50439 total)
+D, [2020-03-14T16:25:28.018119 #4783] DEBUG -- : gzip response
+I, [2020-03-14T16:27:11.393012 #4857]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:27:11.393100 #4857] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:27:11.393134 #4857] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:27:11.393161 #4857] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:27:11.393190 #4857] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:27:11.393218 #4857] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:27:11.393247 #4857] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:27:12.063752 #4857]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:27:12.063885 #4857] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:27:12.063968 #4857] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:27:12.064015 #4857] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:27:12.064064 #4857] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:27:12.064097 #4857] DEBUG -- : response-header: x-amz-cf-pop => JFK51-C1
+D, [2020-03-14T16:27:12.064127 #4857] DEBUG -- : response-header: x-amz-cf-id => sQuq2VccdW1395OYyw0Oq0YnZD151NA4DB8Aqpl-2YDa1lqbb67Iog==
+D, [2020-03-14T16:27:12.064158 #4857] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:27:12.064188 #4857] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:27:12.064221 #4857] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:27:12.064249 #4857] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:27:12 GMT
+D, [2020-03-14T16:27:12.064335 #4857] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:27:12.064363 #4857] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:27:12.064391 #4857] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=139, origin; dur=5
+D, [2020-03-14T16:27:12.064550 #4857] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:27:12.103690 #4857] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:27:12.109451 #4857] DEBUG -- : Read 15173 bytes (39749 total)
+D, [2020-03-14T16:27:12.109760 #4857] DEBUG -- : Read 8755 bytes (48504 total)
+D, [2020-03-14T16:27:12.110023 #4857] DEBUG -- : Read 1927 bytes (50431 total)
+D, [2020-03-14T16:27:12.110175 #4857] DEBUG -- : Read 8 bytes (50439 total)
+D, [2020-03-14T16:27:12.110552 #4857] DEBUG -- : gzip response
+I, [2020-03-14T16:31:02.839611 #4996]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:31:02.839702 #4996] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:31:02.839725 #4996] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:31:02.839742 #4996] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:31:02.839758 #4996] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:31:02.839776 #4996] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:31:02.839793 #4996] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:31:03.379429 #4996]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:31:03.379619 #4996] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:31:03.379719 #4996] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:31:03.379822 #4996] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:31:03.379920 #4996] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:31:03.380086 #4996] DEBUG -- : response-header: x-amz-cf-pop => LAX3-C1
+D, [2020-03-14T16:31:03.380173 #4996] DEBUG -- : response-header: x-amz-cf-id => T-CcnNSr10W48pbHRUNUrdQUGQh9CgFJvSoQ79qY_o-xRaNz5adw6Q==
+D, [2020-03-14T16:31:03.380265 #4996] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:31:03.380348 #4996] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:31:03.380440 #4996] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:31:03.380538 #4996] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:31:03 GMT
+D, [2020-03-14T16:31:03.380632 #4996] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:31:03.380724 #4996] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:31:03.380849 #4996] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=202, origin; dur=30
+D, [2020-03-14T16:31:03.381250 #4996] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:31:03.416058 #4996] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:31:03.422139 #4996] DEBUG -- : Read 15172 bytes (39748 total)
+D, [2020-03-14T16:31:03.423042 #4996] DEBUG -- : Read 8736 bytes (48484 total)
+D, [2020-03-14T16:31:03.423475 #4996] DEBUG -- : Read 2023 bytes (50507 total)
+D, [2020-03-14T16:31:03.423732 #4996] DEBUG -- : Read 8 bytes (50515 total)
+D, [2020-03-14T16:31:03.424382 #4996] DEBUG -- : gzip response
+I, [2020-03-14T16:32:16.285306 #5037]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:32:16.285397 #5037] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:32:16.285449 #5037] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:32:16.285499 #5037] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:32:16.285526 #5037] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:32:16.285564 #5037] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:32:16.285599 #5037] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:32:16.888422 #5037]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:32:16.888608 #5037] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:32:16.888706 #5037] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:32:16.888806 #5037] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:32:16.888898 #5037] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:32:16.888988 #5037] DEBUG -- : response-header: x-amz-cf-pop => LAX50-C1
+D, [2020-03-14T16:32:16.889075 #5037] DEBUG -- : response-header: x-amz-cf-id => 2fbCLyF63FbrZxrYlCK0twxarC2ea3RJg94OeEJL5Nuv5s26T62SYA==
+D, [2020-03-14T16:32:16.889165 #5037] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:32:16.889249 #5037] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:32:16.889345 #5037] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:32:16.889438 #5037] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:32:16 GMT
+D, [2020-03-14T16:32:16.889524 #5037] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:32:16.889608 #5037] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:32:16.889703 #5037] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=180, origin; dur=2
+D, [2020-03-14T16:32:16.890117 #5037] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:32:16.916769 #5037] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:32:16.922253 #5037] DEBUG -- : Read 15166 bytes (39742 total)
+D, [2020-03-14T16:32:16.923464 #5037] DEBUG -- : Read 8735 bytes (48477 total)
+D, [2020-03-14T16:32:16.923883 #5037] DEBUG -- : Read 2026 bytes (50503 total)
+D, [2020-03-14T16:32:16.924218 #5037] DEBUG -- : Read 8 bytes (50511 total)
+D, [2020-03-14T16:32:16.924753 #5037] DEBUG -- : gzip response
+I, [2020-03-14T16:33:50.800860 #5119]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:33:50.800954 #5119] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:33:50.800999 #5119] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:33:50.801033 #5119] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:33:50.801073 #5119] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:33:50.801099 #5119] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:33:50.801123 #5119] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:33:51.482768 #5119]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:33:51.482967 #5119] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:33:51.485877 #5119] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:33:51.486065 #5119] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:33:51.486178 #5119] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:33:51.486277 #5119] DEBUG -- : response-header: x-amz-cf-pop => LAX3-C4
+D, [2020-03-14T16:33:51.486373 #5119] DEBUG -- : response-header: x-amz-cf-id => chQJ1zGrBs7KErmjCXcLES1laqOswwc3lJvzCnE1QRAS2HfgLeFjUg==
+D, [2020-03-14T16:33:51.486466 #5119] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:33:51.486563 #5119] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:33:51.486650 #5119] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:33:51.486736 #5119] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:33:51 GMT
+D, [2020-03-14T16:33:51.486823 #5119] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:33:51.486915 #5119] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:33:51.487006 #5119] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=205, origin; dur=5
+D, [2020-03-14T16:33:51.487446 #5119] DEBUG -- : Read 15622 bytes (15622 total)
+D, [2020-03-14T16:33:51.518603 #5119] DEBUG -- : Read 8954 bytes (24576 total)
+D, [2020-03-14T16:33:51.524377 #5119] DEBUG -- : Read 15174 bytes (39750 total)
+D, [2020-03-14T16:33:51.527483 #5119] DEBUG -- : Read 8737 bytes (48487 total)
+D, [2020-03-14T16:33:51.528575 #5119] DEBUG -- : Read 2021 bytes (50508 total)
+D, [2020-03-14T16:33:51.528888 #5119] DEBUG -- : Read 8 bytes (50516 total)
+D, [2020-03-14T16:33:51.529476 #5119] DEBUG -- : gzip response
+I, [2020-03-14T16:34:32.911506 #6217]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:34:32.911596 #6217] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:34:32.911619 #6217] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:34:32.911636 #6217] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:34:32.911652 #6217] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:34:32.911671 #6217] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:34:32.911688 #6217] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:34:33.528751 #6217]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:34:33.528938 #6217] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:34:33.529039 #6217] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:34:33.529133 #6217] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:34:33.529225 #6217] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:34:33.529307 #6217] DEBUG -- : response-header: x-amz-cf-pop => LAX3-C3
+D, [2020-03-14T16:34:33.529390 #6217] DEBUG -- : response-header: x-amz-cf-id => sVseMJxGGXqZIi6LCAI8tbQN7rRkqzSe7roBpytdPVqcf0DmBHuj0w==
+D, [2020-03-14T16:34:33.529504 #6217] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:34:33.529596 #6217] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:34:33.529698 #6217] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:34:33.529776 #6217] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:34:33 GMT
+D, [2020-03-14T16:34:33.529832 #6217] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:34:33.529883 #6217] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:34:33.529940 #6217] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=187, origin; dur=16
+D, [2020-03-14T16:34:33.530225 #6217] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:34:33.555460 #6217] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:34:33.560233 #6217] DEBUG -- : Read 15170 bytes (39746 total)
+D, [2020-03-14T16:34:33.562252 #6217] DEBUG -- : Read 8735 bytes (48481 total)
+D, [2020-03-14T16:34:33.562648 #6217] DEBUG -- : Read 2024 bytes (50505 total)
+D, [2020-03-14T16:34:33.562800 #6217] DEBUG -- : Read 8 bytes (50513 total)
+D, [2020-03-14T16:34:33.563154 #6217] DEBUG -- : gzip response
+I, [2020-03-14T16:35:31.841724 #6261]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:35:31.841821 #6261] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:35:31.841864 #6261] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:35:31.841896 #6261] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:35:31.841926 #6261] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:35:31.841954 #6261] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:35:31.841979 #6261] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:35:32.574310 #6261]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:35:32.574502 #6261] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:35:32.574621 #6261] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:35:32.574723 #6261] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:35:32.574831 #6261] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:35:32.574923 #6261] DEBUG -- : response-header: x-amz-cf-pop => LAX50-C1
+D, [2020-03-14T16:35:32.575007 #6261] DEBUG -- : response-header: x-amz-cf-id => h2-1JB8cNs1kZaxQG-oOArtdmIOVDKyf8WfxTbKDw2VXhOQWU_kXwg==
+D, [2020-03-14T16:35:32.575100 #6261] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:35:32.575184 #6261] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:35:32.575276 #6261] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:35:32.575367 #6261] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:35:32 GMT
+D, [2020-03-14T16:35:32.575449 #6261] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:35:32.575541 #6261] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:35:32.575633 #6261] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=187, origin; dur=2
+D, [2020-03-14T16:35:32.576094 #6261] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:35:32.603024 #6261] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:35:32.607241 #6261] DEBUG -- : Read 16374 bytes (40950 total)
+D, [2020-03-14T16:35:32.608369 #6261] DEBUG -- : Read 7536 bytes (48486 total)
+D, [2020-03-14T16:35:32.608774 #6261] DEBUG -- : Read 2022 bytes (50508 total)
+D, [2020-03-14T16:35:32.609024 #6261] DEBUG -- : Read 8 bytes (50516 total)
+D, [2020-03-14T16:35:32.609510 #6261] DEBUG -- : gzip response
+I, [2020-03-14T16:35:48.928604 #6295]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:35:48.928690 #6295] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:35:48.928722 #6295] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:35:48.928748 #6295] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:35:48.928807 #6295] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:35:48.928835 #6295] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:35:48.928858 #6295] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:35:49.495138 #6295]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:35:49.495318 #6295] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:35:49.495413 #6295] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:35:49.495500 #6295] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:35:49.495584 #6295] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:35:49.495663 #6295] DEBUG -- : response-header: x-amz-cf-pop => LAX3-C1
+D, [2020-03-14T16:35:49.495743 #6295] DEBUG -- : response-header: x-amz-cf-id => YZDU9zh1xdbHkuEl0YZ-frZ-5gLXwujEFvKe4VcGo6VQW3mZKlQaAw==
+D, [2020-03-14T16:35:49.495822 #6295] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:35:49.495898 #6295] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:35:49.496054 #6295] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:35:49.496140 #6295] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:35:49 GMT
+D, [2020-03-14T16:35:49.496216 #6295] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:35:49.496291 #6295] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:35:49.496367 #6295] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=187, origin; dur=2
+D, [2020-03-14T16:35:49.496681 #6295] DEBUG -- : Read 15622 bytes (15622 total)
+D, [2020-03-14T16:35:49.523586 #6295] DEBUG -- : Read 8954 bytes (24576 total)
+D, [2020-03-14T16:35:49.526915 #6295] DEBUG -- : Read 15170 bytes (39746 total)
+D, [2020-03-14T16:35:49.528222 #6295] DEBUG -- : Read 8736 bytes (48482 total)
+D, [2020-03-14T16:35:49.530927 #6295] DEBUG -- : Read 2024 bytes (50506 total)
+D, [2020-03-14T16:35:49.531056 #6295] DEBUG -- : Read 8 bytes (50514 total)
+D, [2020-03-14T16:35:49.531265 #6295] DEBUG -- : gzip response
+I, [2020-03-14T16:37:06.330030 #6336]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:37:06.330120 #6336] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:37:06.330143 #6336] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:37:06.330160 #6336] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:37:06.330179 #6336] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:37:06.330194 #6336] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:37:06.330211 #6336] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:37:07.586285 #6336]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:37:07.586472 #6336] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:37:07.586608 #6336] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:37:07.586704 #6336] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:37:07.586796 #6336] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:37:07.586878 #6336] DEBUG -- : response-header: x-amz-cf-pop => JFK51-C1
+D, [2020-03-14T16:37:07.586959 #6336] DEBUG -- : response-header: x-amz-cf-id => sZJkK4dBwnlenCtBii5f-4mZN3rVE_i-7J2JXfUoQ9OuLS9p3uV8Dw==
+D, [2020-03-14T16:37:07.587041 #6336] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:37:07.587123 #6336] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:37:07.587200 #6336] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:37:07.587278 #6336] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:37:07 GMT
+D, [2020-03-14T16:37:07.587351 #6336] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:37:07.587425 #6336] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:37:07.587501 #6336] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=718, origin; dur=4
+D, [2020-03-14T16:37:07.587827 #6336] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:37:07.614947 #6336] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:37:07.618694 #6336] DEBUG -- : Read 15167 bytes (39743 total)
+D, [2020-03-14T16:37:07.621887 #6336] DEBUG -- : Read 8750 bytes (48493 total)
+D, [2020-03-14T16:37:07.622304 #6336] DEBUG -- : Read 1935 bytes (50428 total)
+D, [2020-03-14T16:37:07.622519 #6336] DEBUG -- : Read 8 bytes (50436 total)
+D, [2020-03-14T16:37:07.623012 #6336] DEBUG -- : gzip response
+I, [2020-03-14T16:38:50.234564 #6420]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:38:50.234657 #6420] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:38:50.234708 #6420] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:38:50.234746 #6420] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:38:50.234779 #6420] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:38:50.234808 #6420] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:38:50.234835 #6420] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:38:50.895709 #6420]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:38:50.895908 #6420] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:38:50.896102 #6420] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:38:50.896173 #6420] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:38:50.896238 #6420] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:38:50.896288 #6420] DEBUG -- : response-header: x-amz-cf-pop => JFK51-C1
+D, [2020-03-14T16:38:50.896345 #6420] DEBUG -- : response-header: x-amz-cf-id => 8_sbSoGRjCnOBUo_LDkMsmaJEoD6M6gkXE1wH64Da8qBIc-0tBC1Mw==
+D, [2020-03-14T16:38:50.896397 #6420] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:38:50.896451 #6420] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:38:50.896502 #6420] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:38:50.896546 #6420] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:38:50 GMT
+D, [2020-03-14T16:38:50.896593 #6420] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:38:50.896695 #6420] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:38:50.896769 #6420] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=180, origin; dur=3
+D, [2020-03-14T16:38:50.897106 #6420] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:38:50.923992 #6420] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:38:50.930672 #6420] DEBUG -- : Read 15166 bytes (39742 total)
+D, [2020-03-14T16:38:50.932341 #6420] DEBUG -- : Read 8747 bytes (48489 total)
+D, [2020-03-14T16:38:50.932890 #6420] DEBUG -- : Read 1940 bytes (50429 total)
+D, [2020-03-14T16:38:50.933070 #6420] DEBUG -- : Read 8 bytes (50437 total)
+D, [2020-03-14T16:38:50.933517 #6420] DEBUG -- : gzip response
+I, [2020-03-14T16:46:16.171046 #6884]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:46:16.171152 #6884] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:46:16.171189 #6884] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:46:16.171215 #6884] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:46:16.171248 #6884] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:46:16.171276 #6884] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:46:16.171302 #6884] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:46:16.674632 #6884]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:46:16.674842 #6884] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:46:16.674953 #6884] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:46:16.675050 #6884] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:46:16.675144 #6884] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:46:16.675229 #6884] DEBUG -- : response-header: x-amz-cf-pop => JFK51-C1
+D, [2020-03-14T16:46:16.675311 #6884] DEBUG -- : response-header: x-amz-cf-id => 8UJZ5jSKfcerBOqbAfrj_yLRctEa4atPydz5f2lBAfUoxdZpyPZ8eA==
+D, [2020-03-14T16:46:16.675396 #6884] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:46:16.675480 #6884] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:46:16.675563 #6884] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:46:16.675645 #6884] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:46:16 GMT
+D, [2020-03-14T16:46:16.675724 #6884] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:46:16.675803 #6884] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:46:16.675884 #6884] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=155, origin; dur=5
+D, [2020-03-14T16:46:16.676304 #6884] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:46:16.712412 #6884] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:46:16.720275 #6884] DEBUG -- : Read 15172 bytes (39748 total)
+D, [2020-03-14T16:46:16.720604 #6884] DEBUG -- : Read 8755 bytes (48503 total)
+D, [2020-03-14T16:46:16.720904 #6884] DEBUG -- : Read 1988 bytes (50491 total)
+D, [2020-03-14T16:46:16.721086 #6884] DEBUG -- : Read 8 bytes (50499 total)
+D, [2020-03-14T16:46:16.721577 #6884] DEBUG -- : gzip response
+I, [2020-03-14T16:46:44.731553 #6926]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:46:44.731658 #6926] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:46:44.731700 #6926] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:46:44.731743 #6926] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:46:44.731771 #6926] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:46:44.731796 #6926] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:46:44.731823 #6926] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:46:45.388654 #6926]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:46:45.388823 #6926] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:46:45.388886 #6926] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:46:45.388936 #6926] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:46:45.388992 #6926] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:46:45.389038 #6926] DEBUG -- : response-header: x-amz-cf-pop => JFK51-C1
+D, [2020-03-14T16:46:45.389085 #6926] DEBUG -- : response-header: x-amz-cf-id => DqNzVw5H9DY4_PotdoxehdgPM-B5RxD6rOsBaKqhGdF9s3VYDk_e9Q==
+D, [2020-03-14T16:46:45.389142 #6926] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:46:45.389192 #6926] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:46:45.389246 #6926] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:46:45.389296 #6926] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:46:45 GMT
+D, [2020-03-14T16:46:45.389350 #6926] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:46:45.389400 #6926] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:46:45.389468 #6926] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=187, origin; dur=6
+D, [2020-03-14T16:46:45.389814 #6926] DEBUG -- : Read 15621 bytes (15621 total)
+D, [2020-03-14T16:46:45.416717 #6926] DEBUG -- : Read 8955 bytes (24576 total)
+D, [2020-03-14T16:46:45.424759 #6926] DEBUG -- : Read 15173 bytes (39749 total)
+D, [2020-03-14T16:46:45.425121 #6926] DEBUG -- : Read 8752 bytes (48501 total)
+D, [2020-03-14T16:46:45.425395 #6926] DEBUG -- : Read 1993 bytes (50494 total)
+D, [2020-03-14T16:46:45.425532 #6926] DEBUG -- : Read 8 bytes (50502 total)
+D, [2020-03-14T16:46:45.426000 #6926] DEBUG -- : gzip response
+I, [2020-03-14T16:47:41.687883 #7006]  INFO -- : Net::HTTP::Get: /article/fresh-movies-you-can-watch-for-free-online-right-now/
+D, [2020-03-14T16:47:41.687997 #7006] DEBUG -- : request-header: accept-encoding => gzip,deflate,identity
+D, [2020-03-14T16:47:41.688022 #7006] DEBUG -- : request-header: accept => */*
+D, [2020-03-14T16:47:41.688039 #7006] DEBUG -- : request-header: user-agent => Mechanize/2.7.6 Ruby/2.7.0p0 (http://github.com/sparklemotion/mechanize/)
+D, [2020-03-14T16:47:41.688058 #7006] DEBUG -- : request-header: accept-charset => ISO-8859-1,utf-8;q=0.7,*;q=0.7
+D, [2020-03-14T16:47:41.688072 #7006] DEBUG -- : request-header: accept-language => en-us,en;q=0.5
+D, [2020-03-14T16:47:41.688088 #7006] DEBUG -- : request-header: host => editorial.rottentomatoes.com
+I, [2020-03-14T16:47:43.257245 #7006]  INFO -- : status: Net::HTTPOK 1.1 200 OK
+D, [2020-03-14T16:47:43.257413 #7006] DEBUG -- : response-header: content-type => text/html; charset=UTF-8
+D, [2020-03-14T16:47:43.257521 #7006] DEBUG -- : response-header: access-control-allow-origin => *
+D, [2020-03-14T16:47:43.257600 #7006] DEBUG -- : response-header: link => <https://editorial.rottentomatoes.com/wp-json/>; rel="https://api.w.org/", <https://editorial.rottentomatoes.com/?p=142089>; rel=shortlink, <https://editorial.rottentomatoes.com/wp-json>; rel="https://github.com/WP-API/WP-API"
+D, [2020-03-14T16:47:43.257676 #7006] DEBUG -- : response-header: server => Apache
+D, [2020-03-14T16:47:43.257767 #7006] DEBUG -- : response-header: x-amz-cf-pop => LAX50-C2
+D, [2020-03-14T16:47:43.257840 #7006] DEBUG -- : response-header: x-amz-cf-id => 5W_MN8QR2C-jwV81q6yzFFe-xqijOrh69lt7mpd4EgTqqGKr-xq5Nw==
+D, [2020-03-14T16:47:43.257910 #7006] DEBUG -- : response-header: x-akamai-transformed => 9 - 0 pmb=mRUM,2
+D, [2020-03-14T16:47:43.257979 #7006] DEBUG -- : response-header: vary => Accept-Encoding
+D, [2020-03-14T16:47:43.258047 #7006] DEBUG -- : response-header: content-encoding => gzip
+D, [2020-03-14T16:47:43.258119 #7006] DEBUG -- : response-header: date => Sat, 14 Mar 2020 19:47:43 GMT
+D, [2020-03-14T16:47:43.258186 #7006] DEBUG -- : response-header: transfer-encoding => chunked
+D, [2020-03-14T16:47:43.258254 #7006] DEBUG -- : response-header: connection => keep-alive, Transfer-Encoding
+D, [2020-03-14T16:47:43.258322 #7006] DEBUG -- : response-header: server-timing => cdn-cache; desc=MISS, edge; dur=1010, origin; dur=2
+D, [2020-03-14T16:47:43.258612 #7006] DEBUG -- : Read 15620 bytes (15620 total)
+D, [2020-03-14T16:47:43.274101 #7006] DEBUG -- : Read 8956 bytes (24576 total)
+D, [2020-03-14T16:47:43.285291 #7006] DEBUG -- : Read 15172 bytes (39748 total)
+D, [2020-03-14T16:47:43.296921 #7006] DEBUG -- : Read 8659 bytes (48407 total)
+D, [2020-03-14T16:47:43.297351 #7006] DEBUG -- : Read 2069 bytes (50476 total)
+D, [2020-03-14T16:47:43.297542 #7006] DEBUG -- : Read 8 bytes (50484 total)
+D, [2020-03-14T16:47:43.297989 #7006] DEBUG -- : gzip response

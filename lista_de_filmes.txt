@@ -1,0 +1,101 @@
+Lista de Filmes:
+title: The Last Picture Show, year: (1971), score: 100%
+title: Nas: Time Is Illmatic, year: (2014), score: 100%
+title: Shaun the Sheep Movie, year: (2015), score: 99%
+title: The Conversation, year: (1974), score: 98%
+title: Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb, year: (1964), score: 98%
+title: Invasion of the Body Snatchers, year: (1956), score: 98%
+title: It Happened One Night, year: (1934), score: 98%
+title: Lawrence of Arabia, year: (1962), score: 98%
+title: On the Waterfront, year: (1954), score: 98%
+title: Once Upon a Time in the West, year: (1968), score: 98%
+title: Roman Holiday, year: (1953), score: 98%
+title: Short Term 12, year: (2013), score: 98%
+title: Sunset Boulevard, year: (1950), score: 98%
+title: Being Evel, year: (2015), score: 97%
+title: Bull Durham, year: (1988), score: 97%
+title: Crouching Tiger, Hidden Dragon, year: (2001), score: 97%
+title: La Bamba, year: (1987), score: 97%
+title: Night of the Living Dead, year: (1968), score: 97%
+title: Taxi Driver, year: (1976), score: 97%
+title: '71, year: (2015), score: 96%
+title: Big Night, year: (1996), score: 96%
+title: Citizenfour, year: (2014), score: 96%
+title: The Dish, year: (2001), score: 96%
+title: Ghost in the Shell, year: (1996), score: 96%
+title: One False Move, year: (1992), score: 96%
+title: The Secret of NIMH, year: (1982), score: 96%
+title: The Bridge on the River Kwai, year: (1957), score: 95%
+title: Close Encounters of the Third Kind, year: (1977), score: 95%
+title: Dead Man Walking, year: (1995), score: 95%
+title: Gods and Monsters, year: (1998), score: 95%
+title: Good Hair, year: (2009), score: 95%
+title: Mr. Smith Goes to Washington, year: (1939), score: 95%
+title: Sing Street, year: (2016), score: 95%
+title: The Remains of the Day, year: (1993), score: 95%
+title: Carol, year: (2015), score: 94%
+title: The Guard, year: (2011), score: 94%
+title: Journey To The West, year: (2014), score: 94%
+title: Lone Star, year: (1996), score: 94%
+title: Blue Velvet, year: (1986), score: 93%
+title: Elite Squad: The Enemy Within, year: (2011), score: 93%
+title: Funny Girl, year: (1968), score: 93%
+title: Glory, year: (1989), score: 93%
+title: An Inconvenient Truth, year: (2006), score: 93%
+title: The Madness of King George, year: (1994), score: 93%
+title: Midnight in Paris, year: (2011), score: 93%
+title: Places in the Heart, year: (1984), score: 93%
+title: Planes, Trains and Automobiles, year: (1987), score: 93%
+title: Star Trek: First Contact, year: (1996), score: 93%
+title: Train to Busan (Busanhaeng), year: (2016), score: 93%
+title: WarGames (War Games), year: (1983), score: 93%
+title: Amores Perros, year: (2001), score: 92%
+title: Grizzly Man, year: (2005), score: 92%
+title: Little Women, year: (1994), score: 92%
+title: Mystery Road, year: (2013), score: 92%
+title: Sabrina, year: (1954), score: 92%
+title: The Squid and the Whale, year: (2005), score: 92%
+title: Super Size Me, year: (2004), score: 92%
+title: Adaptation, year: (2002), score: 91%
+title: Faults, year: (2015), score: 91%
+title: Panic, year: (2000), score: 91%
+title: The Return of the Living Dead, year: (1985), score: 91%
+title: Waiting for Guffman, year: (1996), score: 91%
+title: Whale Rider, year: (2003), score: 91%
+title: Leaving Las Vegas, year: (1995), score: 90%
+title: Philomena, year: (2013), score: 90%
+title: Rain Man, year: (1988), score: 90%
+title: Safety Not Guaranteed, year: (2012), score: 90%
+title: What's Eating Gilbert Grape, year: (1993), score: 90%
+title: The Big Easy, year: (1987), score: 89%
+title: Bye Bye Birdie, year: (1963), score: 89%
+title: Ginger Snaps, year: (2001), score: 89%
+title: Zodiac, year: (2007), score: 89%
+title: Kramer vs. Kramer, year: (1979), score: 88%
+title: Bernie, year: (2012), score: 88%
+title: Coherence, year: (2014), score: 88%
+title: Frozen River, year: (2008), score: 88%
+title: F/X, year: (1986), score: 88%
+title: The Karate Kid, year: (1984), score: 88%
+title: The Mighty Quinn, year: (1989), score: 88%
+title: Roger Dodger, year: (2002), score: 88%
+title: To Die For, year: (1995), score: 88%
+title: Arizona Dream, year: (1993), score: 87%
+title: Battle Royale, year: (2000), score: 87%
+title: Get Shorty, year: (1995), score: 87%
+title: Pee-wee's Big Adventure, year: (1985), score: 87%
+title: Cloudy With a Chance of Meatballs, year: (2009), score: 86%
+title: Meek's Cutoff, year: (2011), score: 86%
+title: Much Ado About Nothing, year: (2013), score: 86%
+title: Robot & Frank, year: (2012), score: 86%
+title: Slacker, year: (1991), score: 86%
+title: Goodnight Mommy (Ich seh, Ich seh), year: (2015), score: 86%
+title: Fearless, year: (1993), score: 85%
+title: Joe, year: (2014), score: 85%
+title: Liberty Heights, year: (1999), score: 85%
+title: Star Trek IV - The Voyage Home, year: (1986), score: 85%
+title: Still Alice, year: (2015), score: 85%
+title: Gandhi, year: (1982), score: 85%
+title: Hello, My Name is Doris, year: (2016), score: 85%
+title: Altered States, year: (1980), score: 84%
+title: Postcards from the Edge, year: (1990), score: 84%
